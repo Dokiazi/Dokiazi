@@ -42,6 +42,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Dokiazi/Dokiazi/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Dokiazi/Dokiazi/main/snake.svg" alt="Snake animation" />
 
 ###
